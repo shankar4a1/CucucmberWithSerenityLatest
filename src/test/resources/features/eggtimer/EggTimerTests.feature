@@ -2,7 +2,7 @@ Feature: user enters value to start the count down timer
 Description : user enters value to start the count down timer
 
 @component
-Scenario Outline:
+Scenario Outline: user enters value to start the count down timer
 
 Given user is on Home page
 When  he enters <countdowntime>
